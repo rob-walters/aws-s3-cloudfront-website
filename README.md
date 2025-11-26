@@ -10,7 +10,7 @@ This project hosts a static website on AWS using:
 User --> CloudFront --> S3  
 CloudWatch monitors CloudFront activity.
 
-![Architecture Diagram](S3-CloudFront-Website - architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ## Steps I Followed
 1. Created S3 bucket and enabled static hosting
